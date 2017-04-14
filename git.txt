@@ -1,0 +1,11 @@
+git init 命令把这个目录变成Git可以管理的仓库
+git clone 命令克隆
+git branch 查看分支
+git branch <name> 创建分支
+git checkout <name> 切换分支
+git checkout -b <name> 创建+切换分支
+git merge <name> 合并某分支到当前分支
+git branch -d <name> 删除分支
+git add 添加到暂存区
+git commit 提交
+git status 查看
